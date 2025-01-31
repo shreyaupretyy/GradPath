@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask session and uploads
+flask_session/
+uploads/
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs and cache
+*.log
+logs/
+cache/
+
+# VSCode and editor settings
+.vscode/
+*.swp
+.idea/
+*.DS_Store
